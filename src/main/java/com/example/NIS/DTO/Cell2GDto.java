@@ -36,7 +36,7 @@ public class Cell2GDto {
     }
 
     public void setLac(String lac) {
-        this.lac = lac;
+        this.lac = lac; 
     }
 
     public String getCell_name() {
